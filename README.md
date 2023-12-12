@@ -1,6 +1,8 @@
 # Libft
 
-Welcome to my Libft project! This project involves creating a library of essential C functions and additional functionalities. It is a fundamental part of the curriculum at Ecole 42 because we arn't alllowed to use most of the "main" C functions during the common core.
+Welcome to my Libft project! This project involves creating a library of essential C functions and additional functionalities.  
+
+It is the very first project every student must do when joining 42 Paris and it is a fundamental part of the curriculum because we arn't alllowed to use most of the "main" C functions during the common core.
 
 ## Project Overview
 
