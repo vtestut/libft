@@ -1,10 +1,10 @@
 # Libft
 
-Welcome to my Libft project! This project, a fundamental part of the curriculum at Ecole 42, involves creating a library of essential C functions and additional functionalities.
+Welcome to my Libft project! This project involves creating a library of essential C functions and additional functionalities. It is a fundamental part of the curriculum at Ecole 42 because we arn't alllowed to use most of the "main" C functions during the common core.
 
 ## Project Overview
 
-The Libft project aims to strengthen your understanding of C programming, memory management, and the creation of a standard library. Here's a brief overview of the key components:
+The Libft project aims to strengthen our understanding of C programming, memory management, and the creation of a standard library. Here's a brief overview of the key components:
 
 - **Part 1: Standard Functions**
   - Recreate essential functions from the standard C library (`strlen`, `strcpy`, `memset`, etc.).
@@ -30,7 +30,6 @@ Just run ./configure or
 3. Compile the library using the provided Makefile (`make all`).
 4. Link the library to your projects to utilize the functions.
 
-## Acknowledgments
 
 Special thanks to Ecole 42 for the inspiration and learning opportunity.
 
