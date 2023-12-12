@@ -3,15 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   ft_absi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pierre <pierre@student.1337.ma>            +#+  +:+       +#+        */
+/*   By: vtestut <vtestut@student.1337.ma>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/05/08 22:03:06 by pierre            #+#    #+#             */
-/*   Updated: 2023/05/08 22:03:24 by pierre           ###   ########.fr       */
+/*   Created: 2023/05/08 22:03:06 by vtestut            #+#    #+#             */
+/*   Updated: 2023/05/08 22:03:24 by vtestut           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 //
-// Created by pierre on 08/05/23.
+// Created by vtestut on 08/05/23.
 //
 #include "ft_math.h"
 
