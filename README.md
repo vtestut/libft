@@ -24,6 +24,7 @@ The Libft project aims to strengthen your understanding of C programming, memory
 
 ## How to Use
 
+Just run ./configure or 
 1. Clone the repository to your local machine.
 2. Navigate to the `/srcs/` directory and review the source files.
 3. Compile the library using the provided Makefile (`make all`).
